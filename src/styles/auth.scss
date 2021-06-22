@@ -68,11 +68,14 @@
         padding: 0 16px;
         background: #fff;
         border: 1px solid #a8a8b3;
-        width: 287px;
       }
 
       button {
         margin-top: 16px;
+      }
+
+      button,
+      input {
         width: 100%;
       }
     }
